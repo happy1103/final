@@ -20,6 +20,12 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>Privacy — Camera Usage Description</key>
+	<string>使用Camera的權限請求。</string>
+	<key>Privacy — Photo Library Additions Usage Description</key>
+	<string>寫入 photo album的權限請求</string>
+	<key>Privacy — Photo Library Usage Description</key>
+	<string>讀取 photo album的權限請求</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

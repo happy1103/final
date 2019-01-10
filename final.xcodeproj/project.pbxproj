@@ -12,6 +12,20 @@
 		4B1A3ABB21DCBE7C00CF2060 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B1A3AB921DCBE7C00CF2060 /* Main.storyboard */; };
 		4B1A3ABD21DCBE7E00CF2060 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B1A3ABC21DCBE7E00CF2060 /* Assets.xcassets */; };
 		4B1A3AC021DCBE7E00CF2060 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B1A3ABE21DCBE7E00CF2060 /* LaunchScreen.storyboard */; };
+		4B1A3AE821DCCE1900CF2060 /* PictureChooseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1A3AE721DCCE1900CF2060 /* PictureChooseViewController.swift */; };
+		4B1A3AEA21DCD82700CF2060 /* InternetPicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1A3AE921DCD82700CF2060 /* InternetPicViewController.swift */; };
+		4B1A3AEC21DCD8D400CF2060 /* EditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1A3AEB21DCD8D400CF2060 /* EditViewController.swift */; };
+		4B8888FA21DDF3D800761271 /* TitleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B8888F921DDF3D800761271 /* TitleViewController.swift */; };
+		4B8888FC21DDF70400761271 /* TextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B8888FB21DDF70400761271 /* TextViewController.swift */; };
+		4B8888FE21DE2B9700761271 /* PictureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B8888FD21DE2B9700761271 /* PictureViewController.swift */; };
+		4B88890221DF5A6200761271 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B88890121DF5A6200761271 /* Data.swift */; };
+		4B88893021E33DE100761271 /* MycustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B88892F21E33DE100761271 /* MycustomTableViewCell.swift */; };
+		4B88893221E33EB900761271 /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B88893121E33EB900761271 /* MyTableViewController.swift */; };
+		4B88893421E345D600761271 /* MyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B88893321E345D600761271 /* MyCell.swift */; };
+		4B88893621E34A6200761271 /* SaveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B88893521E34A6200761271 /* SaveViewController.swift */; };
+		4B88893821E352EF00761271 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B88893721E352EF00761271 /* FirstViewController.swift */; };
+		4B88893A21E3565200761271 /* PicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B88893921E3565200761271 /* PicViewController.swift */; };
+		4BC218E421E4C18700061FE8 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC218E321E4C18700061FE8 /* test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +36,20 @@
 		4B1A3ABC21DCBE7E00CF2060 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B1A3ABF21DCBE7E00CF2060 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B1A3AC121DCBE7E00CF2060 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B1A3AE721DCCE1900CF2060 /* PictureChooseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PictureChooseViewController.swift; sourceTree = "<group>"; };
+		4B1A3AE921DCD82700CF2060 /* InternetPicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InternetPicViewController.swift; sourceTree = "<group>"; };
+		4B1A3AEB21DCD8D400CF2060 /* EditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditViewController.swift; sourceTree = "<group>"; };
+		4B8888F921DDF3D800761271 /* TitleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleViewController.swift; sourceTree = "<group>"; };
+		4B8888FB21DDF70400761271 /* TextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewController.swift; sourceTree = "<group>"; };
+		4B8888FD21DE2B9700761271 /* PictureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PictureViewController.swift; sourceTree = "<group>"; };
+		4B88890121DF5A6200761271 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		4B88892F21E33DE100761271 /* MycustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MycustomTableViewCell.swift; sourceTree = "<group>"; };
+		4B88893121E33EB900761271 /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
+		4B88893321E345D600761271 /* MyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCell.swift; sourceTree = "<group>"; };
+		4B88893521E34A6200761271 /* SaveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveViewController.swift; sourceTree = "<group>"; };
+		4B88893721E352EF00761271 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		4B88893921E3565200761271 /* PicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PicViewController.swift; sourceTree = "<group>"; };
+		4BC218E321E4C18700061FE8 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +82,23 @@
 		4B1A3AB421DCBE7C00CF2060 /* final */ = {
 			isa = PBXGroup;
 			children = (
+				4B88893721E352EF00761271 /* FirstViewController.swift */,
+				4B8888FD21DE2B9700761271 /* PictureViewController.swift */,
 				4B1A3AB521DCBE7C00CF2060 /* AppDelegate.swift */,
+				4B8888FB21DDF70400761271 /* TextViewController.swift */,
 				4B1A3AB721DCBE7C00CF2060 /* ViewController.swift */,
 				4B1A3AB921DCBE7C00CF2060 /* Main.storyboard */,
+				4BC218E321E4C18700061FE8 /* test.swift */,
+				4B88893921E3565200761271 /* PicViewController.swift */,
+				4B88893521E34A6200761271 /* SaveViewController.swift */,
+				4B88893321E345D600761271 /* MyCell.swift */,
+				4B88893121E33EB900761271 /* MyTableViewController.swift */,
+				4B88892F21E33DE100761271 /* MycustomTableViewCell.swift */,
+				4B88890121DF5A6200761271 /* Data.swift */,
+				4B8888F921DDF3D800761271 /* TitleViewController.swift */,
+				4B1A3AEB21DCD8D400CF2060 /* EditViewController.swift */,
+				4B1A3AE921DCD82700CF2060 /* InternetPicViewController.swift */,
+				4B1A3AE721DCCE1900CF2060 /* PictureChooseViewController.swift */,
 				4B1A3ABC21DCBE7E00CF2060 /* Assets.xcassets */,
 				4B1A3ABE21DCBE7E00CF2060 /* LaunchScreen.storyboard */,
 				4B1A3AC121DCBE7E00CF2060 /* Info.plist */,
@@ -135,8 +177,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B1A3AEC21DCD8D400CF2060 /* EditViewController.swift in Sources */,
+				4B88890221DF5A6200761271 /* Data.swift in Sources */,
+				4B8888FE21DE2B9700761271 /* PictureViewController.swift in Sources */,
 				4B1A3AB821DCBE7C00CF2060 /* ViewController.swift in Sources */,
+				4B88893221E33EB900761271 /* MyTableViewController.swift in Sources */,
+				4BC218E421E4C18700061FE8 /* test.swift in Sources */,
+				4B88893A21E3565200761271 /* PicViewController.swift in Sources */,
+				4B1A3AE821DCCE1900CF2060 /* PictureChooseViewController.swift in Sources */,
+				4B1A3AEA21DCD82700CF2060 /* InternetPicViewController.swift in Sources */,
+				4B88893621E34A6200761271 /* SaveViewController.swift in Sources */,
+				4B88893021E33DE100761271 /* MycustomTableViewCell.swift in Sources */,
 				4B1A3AB621DCBE7C00CF2060 /* AppDelegate.swift in Sources */,
+				4B88893421E345D600761271 /* MyCell.swift in Sources */,
+				4B8888FC21DDF70400761271 /* TextViewController.swift in Sources */,
+				4B8888FA21DDF3D800761271 /* TitleViewController.swift in Sources */,
+				4B88893821E352EF00761271 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,6 +340,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = final/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -301,6 +358,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = final/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
